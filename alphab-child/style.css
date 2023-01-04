@@ -1,0 +1,19 @@
+/*
+Theme Name: AlphaB Child
+Template: alphab
+Theme URI: https://kaziramjan.com/
+Author: Kazi Ramjan Ali
+Author URI: https://kaziramjan.com
+Description: This Theme is built for practicing purspose.
+Requires at least: 5.9
+Tested up to: 6.1
+Requires PHP: 5.6
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: alphab-child
+*/
+
+h1.heading a{
+	text-transform: uppercase;
+}
